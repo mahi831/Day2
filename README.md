@@ -1,1 +1,1 @@
-# Day2
+# Python bootcamp
